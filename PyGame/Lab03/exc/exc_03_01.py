@@ -1,0 +1,1 @@
+# Write a python program to move rectangle to the clicking position

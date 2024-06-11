@@ -1,0 +1,1 @@
+# Add a new image(chick.png) to center of the screen then remove background

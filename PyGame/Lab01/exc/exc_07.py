@@ -1,0 +1,1 @@
+# From exc_01.py make the image rotate in every second

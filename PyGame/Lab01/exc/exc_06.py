@@ -1,0 +1,1 @@
+#From the exc_01.py make each one robots apear sequentially in every 3 seconds

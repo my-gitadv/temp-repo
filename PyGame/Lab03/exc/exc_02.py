@@ -1,0 +1,1 @@
+# Write a progam to change rectangle color randomly when the rectangle is clicked

@@ -1,0 +1,1 @@
+#  From exc_01.py make the image expand in every second for 5 times and shrink in every second 5 times forever

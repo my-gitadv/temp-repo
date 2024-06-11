@@ -1,0 +1,1 @@
+# Please write a program which draws ten robots in a row. The end result should look like this: exc_02.gif

@@ -1,0 +1,1 @@
+# From exc_08.py modify a program to make the text glide and bouce when hit the edge(up-down or left-right)

@@ -1,0 +1,1 @@
+# From exc_07.py modify a program to change text color in every 1 second
